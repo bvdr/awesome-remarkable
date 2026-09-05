@@ -164,6 +164,7 @@ The community ecosystem around reMarkable. The reference community list is [reHa
 | [erikbrinkman/rmapi-js](https://github.com/erikbrinkman/rmapi-js) | JavaScript/TypeScript implementation of the Cloud API. |
 | [rschroll/rmcl](https://github.com/rschroll/rmcl) | Async Python Cloud API library. |
 | [rschroll/rmfuse](https://github.com/rschroll/rmfuse) | FUSE filesystem for the reMarkable Cloud. |
+| [forcewake/remarkable-send](https://github.com/forcewake/remarkable-send) | Markdown to e-ink-tuned PDFs (12pt typography, page-exact sizing, Floyd-Steinberg halftones, measured clickable TOC) pushed to the cloud; agent skill or plain CLI. |
 
 ### Screen Sharing & Streaming
 
