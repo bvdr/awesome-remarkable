@@ -113,6 +113,7 @@ Third-party and official apps that connect to or extend reMarkable, each tagged 
 | [Remarcal](https://remarcal.com/) | `Paid` | Desktop app that pulls calendars and tasks from many providers into a hyperlinked PDF planner on your device. One-time $27. |
 | [Planneriffic](https://planneriffic.com/) | `Free trial` | Desktop app that builds interactive planner PDFs from calendar feeds, processed locally and synced over USB. |
 | [Key2Success Planner](https://brandenbodendorfer.com/remarkable-digital-planners-shop/) | `Paid` | Hyperlinked digital planner system with tappable navigation tiles for the full reMarkable lineup. |
+| [einktools 2027 Planner](https://einktools.com/planner) | `Paid` | Hyperlinked 2027 planner PDF drawn for the reMarkable 2 and Paper Pro in eight screen sizes with both week starts; a free 8-page sample shows the layout. |
 | [eInkPads](https://www.einkpads.com/products/daily-journal) | `Paid` | Calendar-syncing daily planner templates plus a library of free and paid designs. |
 | [OnPlanners](https://onplanners.com/digital-planners/remarkable) | `Freemium` | Marketplace of free and premium hyperlinked planner and template PDFs. |
 | [TabletTemplates](https://tablettemplates.com/product/remarkable-paper-pro-bundle/) | `Paid` | Premium PDF template bundles for the Paper Pro. |
